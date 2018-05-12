@@ -1,0 +1,35 @@
+_repo: The-Bruce_44292
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44292-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barbour, John
+    deathdate: 1395
+    gutenberg_agent_id: '42677'
+    url: http://www.gutenberg.org/2009/agents/42677
+  editor:
+    agent_name: Mackenzie, W. M. (William Mackay)
+    alias: Mackenzie, William Mackay
+    birthdate: 1871
+    deathdate: 1952
+    gutenberg_agent_id: '42678'
+    url: http://www.gutenberg.org/2009/agents/42678
+description: ''
+gutenberg_issued: '2013-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- Robert I, 1306-1329 -- Poetry'
+- !lcsh 'Scotland -- Kings and rulers -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Robert I, King of Scots, 1274-1329 -- Poetry'
+- !lcc 'DA'
+title: The Bruce
+url: http://www.gutenberg.org/ebooks/44292
